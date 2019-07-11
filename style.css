@@ -6,8 +6,8 @@ body {
   font-family: 'Ariel';
 }
 #VW {
-  float: right;
+  justify content: right;
 }
 #baseball {
-  float: right;
+  justify content: center;
 }
