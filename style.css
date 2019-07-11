@@ -7,12 +7,17 @@ body {
   font-family: 'Ariel';
 }
 #VW {
-  text-align: right;
-  color: red;
+  text-align: center;
 }
 #baseball {
   text-align: center;
 }
 #church {
-  float: right;
+  text-align: center;
+}
+#music {
+  text-align: center;
+}
+h3 {
+  text-align: center;
 }
