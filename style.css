@@ -5,6 +5,12 @@
 }
 body {
   font-family: 'Ariel', sans-serif;
+  font-size: 14px;
+  color: navy;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 50px;
 }
 #VW {
   text-align: center;
