@@ -28,3 +28,8 @@ body {
 h3 {
   text-align: center;
 }
+.chris {
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
